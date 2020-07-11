@@ -23,12 +23,15 @@ Beatrice Wagner
 
 ### 2. Produkteinsatz:
 
-    #### Anwendungsgebiet:
+    #### Anwendungsgebiet
+
         * Das Produkt soll eine Lernhilfe im Bereich der Biochemie darstellen. Erlerntes Wissen soll durch mit Hilfe der Software getestet und vertieft werden können.
     #### Zielgruppe:
+
         * Das Produkt ist für Schüler und Studenten bestimmt, die das Fach Biochemie lernen.
         * Es kann außerdem von Lehrenden als Ergänzung zum Lehrstoff dienen.
     #### Betriebsbedingungen:
+    
         * Da es sich um eine Lernplattform handelt, sollte die Nutzung in einer ruhigen Umgebung stattfinden.
 
 
